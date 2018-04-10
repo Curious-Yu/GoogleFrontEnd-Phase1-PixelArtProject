@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-image: url("https://lh6.ggpht.com/B9_XlsiT7fKP3ugrYI1La8jkRqXlQ4iBOJc3-UIMBDeCoAq_ETHNomJpFwre_mTwQWI=h900");
+}
+
+h1 {
+  font-family: Monoton;
+  font-weight: bold;
+  font-size: 60px;
+  text-shadow: 3px 3px #E1BEE7;
+  margin: 0.2em;
+}
+
+h2 {
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+  border-collapse: separate;
+  border-color: black;
+  margin: 0 auto;
+  background-color: #E1BEE7;
+
+}
+
+tr {
+  width: 0px;
+  height: 0px;
+}
+
+td {
+  width: 20px;
+  height: 20px;
+}
+
+input[type=number] {
+  width: 6em;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  border-style: outset;
+}
